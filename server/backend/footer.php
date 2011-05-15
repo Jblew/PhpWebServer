@@ -1,0 +1,1 @@
+Powered by PhpWebServer | &copy; Copyright 2011-<?php echo(date("Y")); ?> by <a href="http://jblew.pl/">Jblew</a>.
